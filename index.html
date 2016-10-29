@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Equi2pano by khufkens</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Equi2pano</h1>
+        <p>Convert spherical panorama time-lapse images into pano-moments input files</p>
+
+        <p class="view"><a href="https://github.com/khufkens/equi2pano">View the Project on GitHub <small>khufkens/equi2pano</small></a></p>
+
+
+        <ul>
+          <li><a href="https://github.com/khufkens/equi2pano/zipball/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/khufkens/equi2pano/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="https://github.com/khufkens/equi2pano">View On <strong>GitHub</strong></a></li>
+        </ul>
+      </header>
+      <section>
+        <h1>
+<a id="equi2pano" class="anchor" href="#equi2pano" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>equi2pano</h1>
+
+<p>This script allows for easy ingestion of existing spherical panorama timelapse images into a <a href="https://www.panomoments.com/">pano-moments input files</a>. In particular, convert 120+ equirectangular files into pano-moment compatible files (half sized equirectangular files). The file names should not contain any spaces for the script to work.</p>
+
+<div class="highlight highlight-source-shell"><pre><span class="pl-c"># usage</span>
+equi2pano.sh /your_equirectangular_files/ /your_output_dir/</pre></div>
+
+<p>Keep in mind that for static timelapse movies (fixed position) you will lose the parallax effect as advertised. Combining a 360 camera with the pano-moments rig will however preserve this quality.</p>
+
+<blockquote><p lang="en" dir="ltr">VR needs a fun creative medium: 
+<a href="https://twitter.com/hashtag/PanoMoments?src=hash">#PanoMoments</a> - Easy to capture with motion parallax for more immersion - <a href="https://t.co/wbfyHCPDEl">https://t.co/wbfyHCPDEl</a>
+<br>
+<img src="https://files.panomoments.com/media/RotatingSquare.gif">
+<br>
+— Pano Moments (@PanoMoments)
+<a href="https://twitter.com/PanoMoments/status/783300151750303744">October 4, 2016</a>
+</p></blockquote>
+
+<p>You can alter the convert command in the script to adjust the field-of-view in order to use the 180 degree offset view instead. Unlike conventional cameras which only allow a singular view direction, 360 spherical cameras record the whole scene and allow for this creative freedom.</p>
+
+<p>More information and demo's can be found on the Pano Moments website:</p>
+
+<p><a href="https://www.panomoments.com/">https://www.panomoments.com/</a></p>
+
+<p>DISCLAIMER: I'm not affiliated with the project but only provide this tool as an easy processing tool!</p>
+      </section>
+      <footer>
+        <p>This project is maintained by <a href="https://github.com/khufkens">khufkens</a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+    
+  </body>
+</html>
