@@ -10,7 +10,11 @@ equi2pano.sh /your_equirectangular_files/ /your_output_dir/
 Keep in mind that for static timelapse movies (fixed position) you will lose the parallax effect as advertised. Combining a 360 camera with the pano-moments rig will however preserve this quality.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">VR needs a fun creative medium: 
-<a href="https://twitter.com/hashtag/PanoMoments?src=hash">#PanoMoments</a> - Easy to capture with motion parallax for more immersion - <a href="https://t.co/wbfyHCPDEl">https://t.co/wbfyHCPDEl</a><a href="https://t.co/iCuW4OkS74">pic.twitter.com/iCuW4OkS74</a></p>&mdash; Pano Moments (@PanoMoments) 
+<a href="https://twitter.com/hashtag/PanoMoments?src=hash">#PanoMoments</a> - Easy to capture with motion parallax for more immersion - <a href="https://t.co/wbfyHCPDEl">https://t.co/wbfyHCPDEl</a>
+
+<img src="https://files.panomoments.com/media/RotatingSquare.gif"></src>
+
+&mdash; Pano Moments (@PanoMoments)
 <a href="https://twitter.com/PanoMoments/status/783300151750303744">October 4, 2016</a>
 </blockquote>
 
