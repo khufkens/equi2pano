@@ -11,9 +11,9 @@ Keep in mind that for static timelapse movies (fixed position) you will lose the
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">VR needs a fun creative medium: 
 <a href="https://twitter.com/hashtag/PanoMoments?src=hash">#PanoMoments</a> - Easy to capture with motion parallax for more immersion - <a href="https://t.co/wbfyHCPDEl">https://t.co/wbfyHCPDEl</a>
-
+<br>
 <img src="https://files.panomoments.com/media/RotatingSquare.gif"></src>
-
+<br>
 &mdash; Pano Moments (@PanoMoments)
 <a href="https://twitter.com/PanoMoments/status/783300151750303744">October 4, 2016</a>
 </blockquote>
