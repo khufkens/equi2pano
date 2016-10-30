@@ -50,7 +50,7 @@ do
 	# In fast moving acquisitions in single lens setups you are limited
 	# to one field-of-view. This is does not apply to spherical cameras
 	# which allows you to pick the opposite viewpoint.
-	convert ${files[$f]} -roll -${i}x0 -crop 50%x100%+0+0 $output/panomoment_${f}.jpg
+	convert ${files[$f]} -roll -${i}+0 -crop 50%x100%+0+0 $output/panomoment_${f}.jpg
 
 	# increase counter
 	f=`echo $f + 1 | bc`
