@@ -23,5 +23,3 @@ You can alter the convert command in the script to adjust the field-of-view in o
 More information and demo's can be found on the Pano Moments website:
 
 [https://www.panomoments.com/](https://www.panomoments.com/)
-
-DISCLAIMER: I'm not affiliated with the project but only provide this tool for easy processing!
