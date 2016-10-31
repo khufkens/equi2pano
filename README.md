@@ -1,6 +1,6 @@
 # equi2pano
 
-This script allows for easy ingestion of existing spherical panorama timelapse images into a [pano-moments input files](https://www.panomoments.com/). In particular, convert 120+ equirectangular files into pano-moment compatible files (half sized equirectangular files). The file names should not contain any spaces for the script to work.
+This script allows for easy ingestion of 120+ existing spherical panorama timelapse images into a [pano-moments input files](https://www.panomoments.com/). The file names should not contain any spaces for the script to work.
 
 ```bash
 # usage
