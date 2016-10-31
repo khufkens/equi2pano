@@ -6,7 +6,6 @@
 #
 # In particular, convert 120+ equirectangular files
 # into pano-moment compatible files
-# (half sized equirectangular files).
 # [Filenames should not contain spaces]
 
 # set input / output directory
