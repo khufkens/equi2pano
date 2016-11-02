@@ -4,7 +4,7 @@ This script allows for easy ingestion of 120+ existing spherical panorama timela
 
 ```bash
 # usage
-equi2pano.sh /your_equirectangular_files/ /your_output_dir/
+equi2pano.sh /your_equirectangular_files /your_output_dir
 ```
 
 Keep in mind that for static timelapse movies (fixed position) you will lose the parallax effect as advertised. Combining a 360 camera with the pano-moments rig will however preserve this quality.
